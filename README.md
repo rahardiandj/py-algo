@@ -1,2 +1,2 @@
 # py-algo
-To solve various algorithm test
+To solve various algorithm problems
